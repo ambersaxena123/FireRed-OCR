@@ -16,7 +16,7 @@
   🤗 <a href="https://huggingface.co/FireRedTeam/FireRed-OCR">HuggingFace</a> |
   🤖 <a href="https://www.modelscope.cn/models/FireRedTeam/FireRed-OCR">ModelScope</a> |
   🖥️ <a href="https://huggingface.co/spaces/FireRedTeam/FireRed-OCR"> Demo</a> |
-  📄 <a href="https://github.com/FireRedTeam/FireRed-OCR/blob/main/assets/FireRed_OCR_Technical_Report.pdf">Technical Report</a> | 
+  📄 <a href="https://arxiv.org/abs/2603.01840">Technical Report</a> | 
   🐈 <a href="https://github.com/FireRedTeam/FireRed-OCR">GitHub</a>
 </p>
 
@@ -332,10 +332,11 @@ We kindly encourage citation of our work if you find it useful.
 @article{fireredocr,
   title={FireRed-OCR Technical Report},
   author={Super Intelligence Team， Xiaohongshu Inc.},
-  year={202X},
+  year={2026},
+  eprint={2603.01840},
   archivePrefix={arXiv},
   primaryClass={cs.CV},
-  url={https://github.com/FireRedTeam/FireRed-OCR}
+  url={https://arxiv.org/abs/2603.01840}
 }
 ```
 
